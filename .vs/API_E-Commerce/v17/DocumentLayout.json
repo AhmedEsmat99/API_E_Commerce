@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\repository\\repousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\repository\\repousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\repository\\crud_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\repository\\crud_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\repository\\icrud_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\repository\\icrud_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\controllers\\prodectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\controllers\\prodectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|c:\\users\\ahmed esmat\\source\\repos\\api_e-commerce\\api_e-commerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB322E9-D767-4E1D-9F4A-231EC87CB79E}|API_E-Commerce\\API_E-Commerce.csproj|solutionrelative:api_e-commerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "API_E-Commerce\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswD4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:34:46.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API_E-Commerce\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAgwIEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:33:58.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API_E-Commerce\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:22:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICRUD_Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\ICRUD_Repository.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Repository\\ICRUD_Repository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\ICRUD_Repository.cs",
+              "RelativeToolTip": "API_E-Commerce\\Repository\\ICRUD_Repository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:13:49.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "API_E-Commerce\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowCwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:06:33.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepoUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\RepoUsers.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Repository\\RepoUsers.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\RepoUsers.cs",
+              "RelativeToolTip": "API_E-Commerce\\Repository\\RepoUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:25:20.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Startup.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Startup.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Startup.cs",
+              "RelativeToolTip": "API_E-Commerce\\Startup.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwGoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:17:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "API_E-Commerce\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:16:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Model\\Categories.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Model\\Categories.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Model\\Categories.cs",
+              "RelativeToolTip": "API_E-Commerce\\Model\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:24:11.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\ProdectsController.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Controllers\\ProdectsController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Controllers\\ProdectsController.cs",
+              "RelativeToolTip": "API_E-Commerce\\Controllers\\ProdectsController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAwwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:16:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Model\\Products.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Model\\Products.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Model\\Products.cs",
+              "RelativeToolTip": "API_E-Commerce\\Model\\Products.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:15:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUD_Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\CRUD_Repository.cs",
+              "RelativeDocumentMoniker": "API_E-Commerce\\Repository\\CRUD_Repository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Esmat\\source\\repos\\API_E-Commerce\\API_E-Commerce\\Repository\\CRUD_Repository.cs",
+              "RelativeToolTip": "API_E-Commerce\\Repository\\CRUD_Repository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAWwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:15:32.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
